@@ -5,7 +5,7 @@
 **The strategy behind CISC (complex instruction set computer) architecture is to have a large set of instructions, including the complex ones.
 The strategy behind RISC (reduced instruction set computer) architecture is to have a small set of instructions that do minimum number of simple operations.**
 
-### Complex instruction set computer
+## Complex instruction set computer
 
 *A complex instruction set computer (CISC /ˈsɪsk/) is a computer in which single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions. The term was retroactively coined in contrast to reduced instruction set computer (RISC)[1][2] and has therefore become something of an umbrella term for everything that is not RISC, from large and complex mainframe computers to simplistic microcontrollers where memory load and store operations are not separated from arithmetic instructions. A modern RISC processor can therefore be much more complex than, say, a modern microcontroller using a CISC-labeled instruction set, especially in the complexity of its electronic circuits, but also in the number of instructions or the complexity of their encoding patterns. The only typical differentiating characteristic is that most RISC designs use uniform instruction length for almost all instructions, and employ strictly separate load/store-instructions.*
 
@@ -15,7 +15,7 @@ The strategy behind RISC (reduced instruction set computer) architecture is to h
 
 ![CISC-Architecture](CISC-Architecture.jpg)
 
-### Reduced instruction set computer
+## Reduced instruction set computer
 
 *A reduced instruction set computer, or RISC (/rɪsk/), is one whose instruction set architecture (ISA) allows it to have fewer cycles per instruction (CPI) than a complex instruction set computer (CISC).[1] Various suggestions have been made regarding a precise definition of RISC, but the general concept is that such a computer has a small set of simple and general instructions, rather than a large set of complex and specialized instructions. For this reason RISC is sometimes given the backronym 'Relegate Interesting Stuff to the Compiler'. Another common RISC trait is their load/store architecture,[2] in which memory is accessed through specific instructions rather than as a part of most instructions.*
 
@@ -28,12 +28,12 @@ The strategy behind RISC (reduced instruction set computer) architecture is to h
 
 
  =============================
-#### Pre. [Program Execution](execution.md)
-#### Next. [README](README.md)
+## Pre. [Program Execution](execution.md)
+## Next. [README](README.md)
 
 =============================
 
-#### **Video** 
+## **Video for Two different Architectures** 
 
 * [RISC vs CISC](https://www.youtube.com/watch?v=_EKgwOAAWZA)
 

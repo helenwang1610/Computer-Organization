@@ -1,4 +1,4 @@
-## Subsystem Interconnection
+# Subsystem Interconnection
 
 -----------------------------------------------------------
 
@@ -6,7 +6,7 @@
 
 ![Computer Buses](bus.jpg)
 
-### Connecting CPU and memory using three buses
+## Connecting CPU and memory using three buses
 
 + [address bus](https://en.wikipedia.org/wiki/Address_bus)
 + [control bus](https://en.wikipedia.org/wiki/Control_bus)
@@ -14,7 +14,7 @@
 
 ![CPU-MEMORY Communication](communication.jpg)
 
-### Connecting I/O devices to the buses
+## Connecting I/O devices to the buses
 
 *The bus contains multiple wires (signal lines) that contain addressing information that describes the memory location of where the data is being sent or where it is being retrieved. Each wire in the bus carries a single bit of information, which means the more wires a bus has the more information it can address. For example, a computer with a 32-bit address bus can address 4GB of memory, and a computer with a 36-bit bus can address 64GB of memory. *
 
@@ -24,13 +24,13 @@
 
 ![Connecting I/O devices to the buses](IO_communication.jpg)
 
-### Controllers
+## Controllers
 
 Controllers or interface:can be a serial or parallel device.
 A serial controller has only one wire connection to the device.
 A parallel controller has several connections to the device so that several bits can be transferred at a time.
 
-#### SCSI Controller
+### SCSI Controller
 
 *A SCSI controller is a device used to connect one or more other SCSI devices to a computer bus. It is commonly called a SCSI controller, which is not strictly correct as any component understanding the SCSI protocol can be called a controller. In this sense all SCSI devices have a SCSI controller built into them, while host adapters (unlike, for example, a hard disk or CD-ROM) bear responsibility for transferring data between the SCSI bus and the computer's input/output bus. SCSI adapters serve as a worthy adapter for FireWire Ports.*
 
@@ -38,7 +38,7 @@ A parallel controller has several connections to the device so that several bits
 
 ![SCSI Controller](SCSI.jpg)
 
-#### FireWire/USB controller
+### FireWire/USB controller
 
 *A host controller interface (USB, FireWire) is a register-level interface that enables a host controller for USB or IEEE 1394 hardware to communicate with a host controller driver in software. The driver software is typically provided with an operating system of a personal computer, but may also be implemented by application-specific devices such as a microcontroller.
 
@@ -47,7 +47,7 @@ A parallel controller has several connections to the device so that several bits
 ![FireWire controller](FireWire.jpg)
 ![USB controller](USB.jpg)
 
-#### Memory mapped and Isolated I/O addressing
+### Memory mapped and Isolated I/O addressing
 
 *Memory Mapped I/O and Isolated I/O are two methods of performing input-output operations between CPU and installed peripherals in the system. Memory mapped I/O uses the same address bus to connect both primary memory and memory of hardware devices. Thus the instruction to address a section or portion or segment of RAM can also be used to address a memory location of a hardware device.
 
@@ -58,13 +58,13 @@ A parallel controller has several connections to the device so that several bits
  ![Isolated I/O addressing](Isolated.jpg)
  
  =============================
-#### Pre. [Input/Output](IO.md)
+## Pre. [Input/Output](IO.md)
 
-#### Next. [Program Execution](execution.md)
+## Next. [Program Execution](execution.md)
 
 =============================
 
-#### **Video** 
+## **Video for Subsystem Interconnection** 
 
 * [COMPUTER BUSES](https://www.youtube.com/watch?v=5V3ibIib67E)
 

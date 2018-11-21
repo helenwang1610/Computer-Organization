@@ -1,31 +1,31 @@
-## INPUT / OUTPUT
+# INPUT / OUTPUT
 
 -----------------------------------------------------------
 
 **An input/output (I/O) device is a hardware device that has the ability to accept inputted, outputted or other processed data. It also can acquire respective media data as input sent to a computer or send computer data to storage media as storage output. An I/O device is also known as an IO device.**
 
-### Nonstorage devices
+## Nonstorage devices
 
 Input/Output devices can be divided into two broad categories:nonstorage and storage devices.
 Nonstorage devices allow the CPU/memory to communicate with the outside world but they can not store information.
 
 ![IO DEVICES](IODEVICES.jpg)
 
-#### Keyboard
+### Keyboard
 
 *Each key on the board has a little electrical switch under it. When you press a key (1), its switch completes a certain electrical circuit (2). A processor (like a tiny computer) inside the keyboard records which circuits were completed and in what order. Then it sends that information to your computer.
 Your computer is programmed to “know” what to do with that information. For example, when it gets the signal that the backspace key was pressed, it knows to erase a keystroke.*
 
 ![Keyboard](Keyboard.jpg)
 
-### Storage devices
+## Storage devices
 
 ![Storage devices](Storage_devices.jpg)
 
 *Storage devices, although classified as I/O devices, can store large amounts of information to be retrieved at a later time.
 We categorize them as either magnetic or optical.*
 
-#### Disk
+### Disk
 
 *Disk storage (also sometimes called drive storage) is a general category of storage mechanisms where data is recorded by various electronic, magnetic, optical, or mechanical changes to a surface layer of one or more rotating disks. A disk drive is a device implementing such a storage mechanism. Notable types are the hard disk drive (HDD) containing a non-removable disk, the floppy disk drive (FDD) and its removable floppy disk, and various optical disc drives (ODD) and associated optical disc media.*
 
@@ -44,7 +44,7 @@ We categorize them as either magnetic or optical.*
  ![Magnetic Storage Devices](MSD_3.jpg)
   ![Surface organization of a disk](MSD_4.jpg)
   
- #### Tape 
+ ### Tape 
  
 *Magnetic tape data storage is a system for storing digital information on magnetic tape using digital recording. Modern magnetic tape is most commonly packaged in cartridges and cassettes. The device that performs writing or reading of data is a tape drive. Autoloaders and tape libraries automate cartridge handling. For example, a common cassette-based format is Linear Tape-Open, which comes in a variety of densities and is manufactured by several companies.*
 
@@ -55,7 +55,7 @@ We categorize them as either magnetic or optical.*
  ![Mechanical configuration of a tape](MSD_5.jpg)
  ![Surface organization of a tape](MSD_6.jpg)
  
- #### Optical Storage Devices
+ ### Optical Storage Devices
 
 *Optical storage is the storage of data on an optically readable medium. Data is recorded by making marks in a pattern that can be read back with the aid of light, usually a beam of laser light precisely focused on a spinning optical disc. An older example of optical storage that does not require the use of computers, is microform. There are other means of optically storing data and new methods are in development. An optical disc drive is a device in a computer that can read CD-ROMs or other optical discs, such as DVDs and Blu-ray discs. Optical storage differs from other data storage techniques that make use of other technologies such as magnetism, such as floppy disks and hard disks, or semiconductors, such as flash memory and ROM.*
 
@@ -65,13 +65,13 @@ We categorize them as either magnetic or optical.*
  ![CD-ROM speeds](SPEEDS.jpg)
 
 =============================
-#### Pre. [Main Memory](memory.md)
+## Pre. [Main Memory](memory.md)
 
-#### Next. [Subsystem Interconnection](subsystem.md)
+## Next. [Subsystem Interconnection](subsystem.md)
 
 =============================
 
-#### **Video** 
+## **Video for INPUT / OUTPUT** 
 
 * [Input/Output Devices](https://www.youtube.com/watch?v=KzxVZgO-iOA)
 * [How Computers Work: CPU, Memory, Input & Output](https://www.youtube.com/watch?v=DKGZlaPlVLY&t=61s)

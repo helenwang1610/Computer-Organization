@@ -1,5 +1,5 @@
 
-## Main Memory
+# Main Memory
 
 -----------------------------------------------------------
 
@@ -14,7 +14,7 @@
 Byte: 8 bits word.*
 *Memory addresses are defined usingunsigned binary integers.*
 
-### Memory Types
+## Memory Types
 
 Two types of memory : RAM and ROM.
 RAM(random access memory):
@@ -31,10 +31,10 @@ ROM:(Read-only memory)
 + [EPROM](https://en.wikipedia.org/wiki/EPROM)
 + [EEPROM](https://en.wikipedia.org/wiki/EEPROM)
 
-### Memory hierarchy
+## Memory hierarchy
 ![Memory hierarchy](Memory_hierarchy.jpg)
 
-### Cache
+## Cache
 ![Cache](Cache.jpg)
 *Pronounced like the physical form of U.S. currency ("cash"), cache is a high-speed access area that can be a reserved section of main memory or storage device. The two main types of cache are memory cache and disk cache.*
 
@@ -42,13 +42,13 @@ ROM:(Read-only memory)
 ![Memory Cache](Memory_Cache.jpg)
 
 =============================
-#### Pre. [CPU](CPU.md)
+## Pre. [CPU](CPU.md)
 
-#### Next. [Input/Output](IO.md)
+## Next. [Input/Output](IO.md)
 
 =============================
 
-#### **Video** 
+## **Video for Main Memory** 
 
 * [Memory](https://www.youtube.com/watch?v=T4VVC3eeZI0)
 * [How does Computer Work?](https://www.youtube.com/watch?v=DKGZlaPlVLY)

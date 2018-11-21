@@ -1,4 +1,4 @@
-## Program Execution
+# Program Execution
 
 -----------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 **The term run is used almost synonymously. A related meaning of both "to run" and "to execute" refers to the specific action of a user starting (or launching or invoking) a program, as in "Please run the application."**
 
-### Machine cycle
+## Machine cycle
 
 *The instruction cycle (also known as the fetch–decode–execute cycle or the fetch-execute cycle) is the basic operational process of a computer system. It is the process by which a computer retrieves a program instruction from its memory, determines what actions the instruction describes, and then carries out those actions. This cycle is repeated continuously by a computer's central processing unit (CPU), from boot-up until the computer has shut down. *
 
@@ -20,7 +20,7 @@
 ![CLICK](CLICK.JPG)  **[Machine cycle](https://www.youtube.com/watch?v=urqPobwPOzs)**
 
 
-### Programmed I/O
+## Programmed I/O
 
 *TProgrammed input/output (PIO) is a method of transferring data between the CPU and a peripheral, such as a network adapter or an ATA storage device.
 
@@ -31,14 +31,14 @@ For programmed I/O, the software that is running on the CPU uses instructions to
 
 ![Programmed I/O](Programmed.jpg)
 
-### Interrupt-driven I/O
+## Interrupt-driven I/O
 
 *An interrupt request (IRQ) is an asynchronous signal sent from a device to a processor indicating that in order to process a request, attention is required. A hardware IRQ is induced by a hardware peripheral or device request, whereas a software IRQ is induced by a software instruction. Both result in processor status savings, and revert to serving the IRQ using an interrupt handler routine.*
 
 ![Interrupt-driven I/O](Interrupt.jpg)
 
 
-### DMA connection to the general bus
+## DMA connection to the general bus
 
 
 *Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to or from the main memory, bypassing the CPU to speed up memory operations. The process is managed by a chip known as a DMA controller (DMAC).*
@@ -49,13 +49,13 @@ For programmed I/O, the software that is running on the CPU uses instructions to
 
 
  =============================
-#### Pre. [Subsystem Interconnection](subsystem.md)
+## Pre. [Subsystem Interconnection](subsystem.md)
 
-#### Next. [Two different Architectures](CISC_RISC.md)
+## Next. [Two different Architectures](CISC_RISC.md)
 
 =============================
 
-#### **Video** 
+## **Video for Program Execution** 
 
 * [Machine cycle](https://www.youtube.com/watch?v=urqPobwPOzs)
 * [memory-mapped i/o](https://www.youtube.com/watch?v=aT5XMOrid7Y)

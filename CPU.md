@@ -1,5 +1,5 @@
 
-## Central Processing Unit
+# Central Processing Unit
 
 -----------------------------------------------------------
 
@@ -27,13 +27,13 @@
 ![The machine cycle](fetch_execute.jpg)
 
 =============================
-#### Pre. [README](README.md)
+## Pre. [README](README.md)
 
-#### Next. [Main Memory](memory.md)
+## Next. [Main Memory](memory.md)
 
 =============================
 
-#### **Video** 
+## **Video for Central Processing Unit** 
 
 * [Central Processing Unit](https://www.youtube.com/watch?v=cEQXWsM5bfQ)
 
